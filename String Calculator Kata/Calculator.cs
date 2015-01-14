@@ -1,4 +1,9 @@
-﻿// Kata Taken From http://osherove.com/tdd-kata-1/
+﻿// Author: Brandon Born
+// https://github.com/Brandon-Born/Calculator-Kata
+
+// Kata Taken From http://osherove.com/tdd-kata-1/
+
+
 
 using System;
 using System.Collections.Generic;
